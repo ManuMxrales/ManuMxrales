@@ -1,6 +1,4 @@
 <h1> Hello World :earth_americas: </h1>
-
-![Black Modern Personal LinkedIn Banner](https://res.cloudinary.com/ddfoio9j1/image/upload/v1686861696/ManuMxralesWeb/Banner_Di%CC%81a_de_la_Tierra_Elegante_Azul_y_Verde_rgbjve.jpg)
   
 ```js
 const Manu = {
