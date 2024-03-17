@@ -2,7 +2,7 @@
   
 ```js
 const Manu = {
-  code: [Javascript, Typescript, HTML, CSS, Express, Sequelize],
+  code: [Javascript, Typescript, Go, HTML, CSS, Express, Sequelize],
   tools: [React, Redux, Node, LIT, PostgreSQL, MUI]
 }
 ```
