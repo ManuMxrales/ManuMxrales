@@ -8,9 +8,9 @@ const Manu = {
 ```
 
 
-- 🔭 I am currently working as a Frontend Developer at SNGULAR.
-- 🌱 I am learning Typescript oriented to its integration with React and Angular.
-- 💬 Ask me about JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize, TypeScript.
+- 🔭 I am currently working as a Frontend Developer at BBVA.
+- 🌱 I am working with Typescript oriented to its integration with Vue or any other framework.
+- 💬 Ask me about JavaScript, Vue, Nuxt, Lit, React, Redux, HTML, CSS, Deno, Node JS, Express, PostgreSQL, Sequelize, TypeScript.
 ## You can find me :earth_americas: :
 - [Linkedin](https://www.linkedin.com/in/francisco-sanchez-morales-284662227/)
 - manumxrales@gmail.com
